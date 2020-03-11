@@ -1,6 +1,3 @@
-# MoJPegaTraining
-For MoJ Pega Training
-
 # Links
 
 #### Please refer to below link to access training application 
@@ -9,7 +6,7 @@ For MoJ Pega Training
 
 # Training Guide
 
-[Pega Exercise Guide](https://1drv.ms/w/s!AvVEPrDDwal9i88nBXS3VqKKYfRxCQ?e=crOCJO "Click here to view")
+[Pega Exercise Guide](https://1drv.ms/w/s!AvVEPrDDwal9i9FNrMxfcmWYoF27sw?e=0Lap4M "Click here to view")
 
 # Pega 8 Presentation
  [Day1](https://1drv.ms/p/s!AvVEPrDDwal9i88yEhEp0S-03p_p6Q?e=C91MRq "Click here to view")
