@@ -6,12 +6,12 @@
 
 # Training Guide
 
-[Pega Exercise Guide](Files/trainingGuide/Pega Training%20Exersise%20Guide.pdf "Click here to view")
+[Pega Exercise Guide](https://1drv.ms/w/s!AltO6Pkun9hUp2Z268rgTKMQkflq?e=ThsENI "Click here to view")
 
 # Pega 8 Presentation
- [Day1](Files\trainingGuide\Day 1\MoJ%20Pega%20Training%20-%20Entry%20App%20build%20-%20Day%201..pptx "Click here to view")
+ [Day1](https://1drv.ms/p/s!AltO6Pkun9hUp2fSOzo3vSbx0Z9x?e=tHZNL0 "Click here to view")
 
- [Day2](Files\trainingGuide\Day 2\MoJ%20Pega%20Training%20-%20Entry%20App%20build%20-%20Day%202.pptx "Click here to view")
+ [Day2](https://1drv.ms/p/s!AltO6Pkun9hUp2mFkpPQQyaPjQy8?e=LniJMj "Click here to view")
  
- [Day3](Files\trainingGuide\Day 3\MoJ%20Pega%20Training%20-%20Entry%20App%20build%20-%20Day%203.pptx "Click here to view")
+ [Day3](https://1drv.ms/p/s!AltO6Pkun9hUp2hhzf8nkiVzfwWM?e=QmhLQb "Click here to view")
  
