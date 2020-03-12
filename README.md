@@ -6,7 +6,7 @@
 
 # Training Guide
 
-[Pega Exercise Guide](https://1drv.ms/w/s!AltO6Pkun9hUp2Z268rgTKMQkflq?e=ThsENI "Click here to view")
+[Pega Exercise Guide](https://1drv.ms/w/s!AltO6Pkun9hUp2Z268rgTKMQkflq?e=l1vi1W "Click here to view")
 
 # Pega 8 Presentation
  [Day1](https://1drv.ms/p/s!AltO6Pkun9hUp2fSOzo3vSbx0Z9x?e=tHZNL0 "Click here to view")
