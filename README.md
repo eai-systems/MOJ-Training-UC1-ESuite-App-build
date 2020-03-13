@@ -16,4 +16,4 @@
  [Day3](https://1drv.ms/p/s!AltO6Pkun9hUp2hhzf8nkiVzfwWM?e=QmhLQb "Click here to view")
 
 # Download all files from here
-  [>>Location] (https://github.com/eai-systems/MoJPegaTraining/tree/master/Files/trainingGuide "Click here to go")
+  [Location](https://github.com/eai-systems/MoJPegaTraining/tree/master/Files/trainingGuide "Click here to go")
