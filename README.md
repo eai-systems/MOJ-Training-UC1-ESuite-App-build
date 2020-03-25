@@ -2,7 +2,7 @@
 
 #### Please refer to below link to access training application 
 
-#### AWS Cloud Link :- [http://157.175.60.234:8080/prweb](http://157.175.60.234:8080/prweb "access our innovation lab in the cloud")
+#### AWS Cloud Link :- [http://157.175.3.215:8080/prweb](http://157.175.3.215:8080/prweb "access our innovation lab in the cloud")
 
 # Training Guide
 
