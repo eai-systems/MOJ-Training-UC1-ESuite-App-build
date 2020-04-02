@@ -19,14 +19,14 @@
   [Location](https://github.com/eai-systems/MoJPegaTraining/tree/master/Files/trainingGuide "Click here to go")
 
 # Download Webex Recordings from here
-   [Session 4 : 15th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-gTEzrEKPs2y8E6_A?e=XawLmD "Click here to go")
+   [Session 4 : 15th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lJT3-w1CwDyZSc8Q?e=QvvVGC "Click here to go")
    
-   [Session 5 : 17th March 2020](https://meetings.webex.com/collabs/url/bgCBbk1A1Q-It1QZmkrTbRx8FUkqfb3Z1DGLAqH75jO00000 "Click here to go")
+   [Session 5 : 17th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lK7lAB7j0pZ_8bYw?e=anRyQq "Click here to go")
    
-   [Revision Q & A : 19th March 2020](https://meetings.webex.com/collabs/url/1V25CUkGk2_I-lUe6kG-ft0izpvhh2TCQLYdewe69pO00000 "Click here to go")
+   [Revision Q & A : 19th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lMs6ruAbDgCVAZdw?e=e3hhpv "Click here to go")
    
-   [Revision Q & A : 24th March 2020](https://meetings.webex.com/collabs/url/dwGu9jt9CRXAdbzN1xmGHtAVbYcEgMwqB3MGPw1Izne00000 "Click here to go")
+   [Revision Q & A : 24th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lNeiFs43m9jNxoWw?e=KY1Lei "Click here to go")
    
-   [Revision Q & A : 26th March 2020](https://meetings.webex.com/collabs/url/ikzF2UFKAYZyr_kSO2HWuFd4YSMCD0aIb2uTd9gSMXK00000 "Click here to go")
+   [Revision Q & A : 26th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lOi3G2_XvUs6tARg?e=vfYZ1q "Click here to go")
    
-   [Revision Q & A : 30th March 2020](https://meetings.webex.com/collabs/url/EiiJmq4BnbLhG0C77uS4ibcucAvQi3_ZeGiMctEhXMW00000 "Click here to go")
+   [Revision Q & A : 30th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lLnS9K_yanendc-A?e=iazXKp "Click here to go")
