@@ -4,11 +4,11 @@
 
 #### AWS Cloud Link :- [http://157.175.3.215:8080/prweb](http://157.175.3.215:8080/prweb "access our innovation lab in the cloud")
 
-# Training Guide
+# Exercise Guide
 
 [Pega Exercise Guide](https://1drv.ms/w/s!AltO6Pkun9hUp2Z268rgTKMQkflq?e=l1vi1W "Click here to view")
 
-# Pega 8 Presentation
+# Pega 8 Training Plan
  [Day1](https://1drv.ms/p/s!AltO6Pkun9hUp2fSOzo3vSbx0Z9x?e=tHZNL0 "Click here to view")
 
  [Day2](https://1drv.ms/p/s!AltO6Pkun9hUp2mFkpPQQyaPjQy8?e=LniJMj "Click here to view")
