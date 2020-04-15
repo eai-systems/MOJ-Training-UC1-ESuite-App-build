@@ -1,8 +1,11 @@
-# Links
+#MOJ-Training-UC1-ESuite-App-build
+for MOJ-Training-UC1-ESuite-App-build
 
 #### Please refer to below link to access training application 
 
 #### AWS Cloud Link :- [http://157.175.3.215:8080/prweb](http://157.175.3.215:8080/prweb "access our innovation lab in the cloud")
+
+For MOJ-Training-UC2-Appeal-App-R1 click [here](https://github.com/eai-systems/MOJ-Training-UC2-Appeal-App-R1 "Click here to go")
 
 # Exercise Guide
 
@@ -16,7 +19,7 @@
 * **[Day3](https://1drv.ms/p/s!AltO6Pkun9hUp2hhzf8nkiVzfwWM?e=QmhLQb "Click here to view")**
 
 # Download all files from here
-* **[Location](https://github.com/eai-systems/MoJPegaTraining/tree/master/Files/trainingGuide "Click here to go")**
+* **[Location](https://github.com/eai-systems/MOJ-Training-UC1-ESuite-App-build/tree/master/Files/trainingGuide "Click here to go")**
 
 # Download Webex Recordings from here
 * **[Session 4 : 15th March 2020](https://1drv.ms/u/s!AvVEPrDDwal9i-lJT3-w1CwDyZSc8Q?e=QvvVGC "Click here to go")**
