@@ -5,7 +5,7 @@ for MOJ-Training-UC1-ESuite-App-build
 
 #### AWS Cloud Link :- [http://157.175.3.215:8080/prweb](http://157.175.3.215:8080/prweb "access our innovation lab in the cloud")
 
-For MOJ-Training-UC2-Appeal-App-R1 click [here](https://github.com/eai-systems/MOJ-Training-UC2-Appeal-App-R1 "Click here to go")
+* **For MOJ-Training-UC2-Appeal-App-R1 click [here](https://github.com/eai-systems/MOJ-Training-UC2-Appeal-App-R1 "Click here to go")**
 
 # Exercise Guide
 
