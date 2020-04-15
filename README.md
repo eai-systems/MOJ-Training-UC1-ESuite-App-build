@@ -9,7 +9,7 @@ For MOJ-Training-UC2-Appeal-App-R1 click [here](https://github.com/eai-systems/M
 
 # Exercise Guide
 
-[Pega Exercise Guide](https://1drv.ms/w/s!AltO6Pkun9hUp2Z268rgTKMQkflq?e=l1vi1W "Click here to view")
+* **[Pega Exercise Guide](https://1drv.ms/w/s!AltO6Pkun9hUp2Z268rgTKMQkflq?e=l1vi1W "Click here to view")**
 
 # Pega 8 Training Plan
 * **[Day1](https://1drv.ms/p/s!AltO6Pkun9hUp2fSOzo3vSbx0Z9x?e=tHZNL0 "Click here to view")**
