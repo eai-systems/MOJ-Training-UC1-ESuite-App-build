@@ -57,3 +57,7 @@ for MOJ-Training-UC1-ESuite-App-build
 * **[Session 3 : 16th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJhzntTxI3_lBfkZhA?e=ZjJAMP "Click here to go")**
 
 * **[Session 4 : 17th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJh7H79wI6ZGwopaIg?e=iaTrYY "Click here to go")**
+
+* **[Session 5 : 18th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJh_FACVMmsdjAvfig?e=vIXe4a "Click here to go")**
+
+* **[Session 6 : 21th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJkdJqvDBjvs07hcFg?e=MuA1xg "Click here to go")**
