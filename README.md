@@ -3,7 +3,7 @@ for MOJ-Training-UC1-ESuite-App-build
 
 #### Please refer to below link to access training application 
 
-#### AWS Cloud Link :- [http://157.175.3.215:8080/prweb](http://157.175.3.215:8080/prweb "access our innovation lab in the cloud")
+#### AWS Cloud Link :- [http://20.50.213.24/](http://20.50.213.24 "access our innovation lab in the cloud")
 
 * **For MOJ-Training-UC2-Appeal-App-R1 click [here](https://github.com/eai-systems/MOJ-Training-UC2-Appeal-App-R1 "Click here to go")**
 
@@ -69,3 +69,7 @@ for MOJ-Training-UC1-ESuite-App-build
 * **[Session 9 : 24th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJk76HJmaoHMmytKEg?e=7PgLUQ "Click here to go")**
 
 * **[Session 10 : 25th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJlHB2kHOZXxdtU6wQ?e=yx2A2w "Click here to go")**
+
+* **[Session 11 : 28th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJlRC1ewM1Bi3Roy9Q?e=W3Boe2 "Click here to go")**
+
+* **[Session 12 : 29th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJlSS4v-zJL5EqUYmA?e=UcmMdM "Click here to go")**
