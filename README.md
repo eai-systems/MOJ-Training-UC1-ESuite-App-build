@@ -76,4 +76,16 @@ for MOJ-Training-UC1-ESuite-App-build
 
 * **[Session 13 : 30th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJpHADyZQVLpvInb_w?e=2wfeBf "Click here to go")**
 
-* **[Session 14 : 5th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJtTQOxDwibqPWL_4Q?e=Wet5HO "Click here to go")**
+* **[Session 14 : 2th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJtTQOxDwibqPWL_4Q?e=Wet5HO "Click here to go")**
+
+* **[Session 15 : 5th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJtTQOxDwibqPWL_4Q?e=3EK9wQ "Click here to go")**
+
+* **[Session 16 : 6th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJwicHM5Zs6qos2g5A?e=1K1ZYF "Click here to go")**
+
+* **[Session 17 : 7th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJwjaH1C_dQyXFPQPg?e=WzTCOl "Click here to go")**
+
+* **[Session 18 : 8th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJwkgKWVANgDnMkKSg?e=XANbZe "Click here to go")**
+
+* **[Session 19 : 9th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJwlqjmqiFrHOTjcUA?e=t8qFfj "Click here to go")**
+
+* **[Session 20 : 12th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJxCUwxVPpmhfzEyIw?e=7YX7nF "Click here to go")**
