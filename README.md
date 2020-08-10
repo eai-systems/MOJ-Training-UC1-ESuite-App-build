@@ -89,3 +89,14 @@ for MOJ-Training-UC1-ESuite-App-build
 * **[Session 19 : 9th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJwlqjmqiFrHOTjcUA?e=t8qFfj "Click here to go")**
 
 * **[Session 20 : 12th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJxCUwxVPpmhfzEyIw?e=7YX7nF "Click here to go")**
+
+* **[Session 21 : 13th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJxYNpznP69Wr9QAxg?e=Yka8ZO "Click here to go")**
+
+* **[Session 22 : 14th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJxzWGvTrPVWjm-31g?e=gpCPWD "Click here to go")**
+
+* **[Session 23 : 15th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJx0GgxRmDnRLozsTg?e=8oJswQ "Click here to go")**
+
+* **[Session 24 : 16th July 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJ0FKRqucIg9UQ8ttg?e=ANbvhY "Click here to go")**
+
+* **[Assignment Review Meeting](https://1drv.ms/v/s!AvVEPrDDwal9jKBUP3mfyMO-K7FZyQ?e=tEpZrX "Click here to go")**
+
