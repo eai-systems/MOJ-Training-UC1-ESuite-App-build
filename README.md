@@ -1,11 +1,12 @@
 # MOJ-Training-UC1-ESuite-App-build
 for MOJ-Training-UC1-ESuite-App-build
-
+<!---
 #### Please refer to below link to access training application 
 
 #### AWS Cloud Link :- [http://51.105.109.57](http://51.105.109.57 "access our innovation lab in the cloud")
 
 * **For MOJ-Training-UC2-Appeal-App-R1 click [here](https://github.com/eai-systems/MOJ-Training-UC2-Appeal-App-R1 "Click here to go")**
+-->
 
 # Exercise Guide
 
