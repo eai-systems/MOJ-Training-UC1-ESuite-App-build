@@ -50,7 +50,7 @@ for MOJ-Training-UC1-ESuite-App-build
 
 # Download Recordings Pega Phase 1 Training - New Team Members from here
 
-* **[Session 1 : 14th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJhxS5qB-B8xlILq1A?e=4J9yeb "Click here to go")**
+* **[Session 1 : 14th June 2020](https://eaisystems.sharepoint.com/:v:/r/sites/MoJTraining/Shared%20Documents/Phase1_Training%20-%20Fahad%20Team/Recordings/Session%201_14-June-2020.mp4?csf=1&web=1&e=DHW0Yt "Click here to go")**
 
 * **[Session 2 : 15th June 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJhymQBe5qwbkRogmQ?e=qJcGBN "Click here to go")**
 
