@@ -37,16 +37,17 @@ for MOJ-Training-UC1-ESuite-App-build
 * **[Revision Q & A : 2nd April 2020](https://eaisystems.sharepoint.com/:u:/r/sites/MoJTraining/Shared%20Documents/MOJ%20Training%20UC1%20-%20ESuite%20App%20build/Recordings/Pega%20Training%20-%20Revision%20and%20Q%26A%20-%20Session%2010-20200402%201108-2.arf?csf=1&web=1&e=9VHRAp "Click here to go")**
    
 * **[Revision Q & A : 9th April 2020](https://eaisystems.sharepoint.com/:u:/r/sites/MoJTraining/Shared%20Documents/MOJ%20Training%20UC1%20-%20ESuite%20App%20build/Recordings/Pega%20Training-%20Q%26A%20and%20Revision-20200409%201056-1.arf?csf=1&web=1&e=pU7g6C "Click here to go")**
+<!---
+# Download Webex Recordings for TechLeads from here
 
-[comment]: <> # Download Webex Recordings for TechLeads from here
+ * **[17th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jIZZ_4dX7arUysePwA?e=izfslP "Click here to go")**
 
-[comment]: <> * **[17th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jIZZ_4dX7arUysePwA?e=izfslP "Click here to go")**
+ * **[19th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jIkbBXkLotEGl1vbgg?e=4rwZlA "Click here to go")**
 
-[comment]: <> * **[19th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jIkbBXkLotEGl1vbgg?e=4rwZlA "Click here to go")**
+ * **[20th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJIWCR-6yFM7u0-zrA?e=k3GIi0 "Click here to go")**
 
-[comment]: <> * **[20th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJIWCR-6yFM7u0-zrA?e=k3GIi0 "Click here to go")**
-
-[comment]: <> * **[21th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJMWljIylcpFArUuzQ?e=IV6l5C "Click here to go")**
+ * **[21th May 2020](https://1drv.ms/v/s!AvVEPrDDwal9jJMWljIylcpFArUuzQ?e=IV6l5C "Click here to go")**
+-->
 
 # Download Recordings Pega Phase 1 Training - New Team Members from here
 
